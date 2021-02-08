@@ -1,0 +1,232 @@
+{
+  "roomId": 1234,
+  "memberId": 6398055317497128,
+  "audio": {
+    "bytesSent": 72258,
+    "packetsSent": 957,
+    "packetsLost": 0,
+    "headerBytesSent": 19140,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797541.332,
+    "jitter": 0.0035416666666666665,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 233124,
+    "packetsSent": 491,
+    "packetsLost": 0,
+    "headerBytesSent": 10060,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797541.332,
+    "jitter": 0.0036666666666666666,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 31,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 3188551842627033,
+  "audio": {
+    "bytesSent": 89612,
+    "packetsSent": 1172,
+    "packetsLost": 0,
+    "headerBytesSent": 23440,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797549.182,
+    "jitter": 0.004333333333333333,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 285795,
+    "packetsSent": 627,
+    "packetsLost": 0,
+    "headerBytesSent": 12704,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797549.182,
+    "jitter": 0.0026333333333333334,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 30,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 6398055317497128,
+  "audio": {
+    "bytesSent": 72669,
+    "packetsSent": 962,
+    "packetsLost": 0,
+    "headerBytesSent": 19240,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797641.399,
+    "jitter": 0.0035416666666666665,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 234389,
+    "packetsSent": 495,
+    "packetsLost": 0,
+    "headerBytesSent": 10140,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797641.399,
+    "jitter": 0.0036666666666666666,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 31,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 3188551842627033,
+  "audio": {
+    "bytesSent": 90008,
+    "packetsSent": 1177,
+    "packetsLost": 0,
+    "headerBytesSent": 23540,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797649.371,
+    "jitter": 0.004333333333333333,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 286761,
+    "packetsSent": 630,
+    "packetsLost": 0,
+    "headerBytesSent": 12764,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797649.371,
+    "jitter": 0.0026333333333333334,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 30,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 6398055317497128,
+  "audio": {
+    "bytesSent": 73077,
+    "packetsSent": 967,
+    "packetsLost": 0,
+    "headerBytesSent": 19340,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797741.741,
+    "jitter": 0.0035416666666666665,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 235106,
+    "packetsSent": 497,
+    "packetsLost": 0,
+    "headerBytesSent": 10180,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797741.741,
+    "jitter": 0.0036666666666666666,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 31,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 3188551842627033,
+  "audio": {
+    "bytesSent": 90423,
+    "packetsSent": 1182,
+    "packetsLost": 0,
+    "headerBytesSent": 23640,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797749.148,
+    "jitter": 0.004333333333333333,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 287785,
+    "packetsSent": 633,
+    "packetsLost": 0,
+    "headerBytesSent": 12824,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797749.148,
+    "jitter": 0.0026333333333333334,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 30,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 6398055317497128,
+  "audio": {
+    "bytesSent": 73471,
+    "packetsSent": 972,
+    "packetsLost": 0,
+    "headerBytesSent": 19440,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797841.35,
+    "jitter": 0.0035416666666666665,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 236469,
+    "packetsSent": 500,
+    "packetsLost": 0,
+    "headerBytesSent": 10240,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797841.35,
+    "jitter": 0.0036666666666666666,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 31,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}
+{
+  "roomId": 1234,
+  "memberId": 3188551842627033,
+  "audio": {
+    "bytesSent": 90819,
+    "packetsSent": 1187,
+    "packetsLost": 0,
+    "headerBytesSent": 23740,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797849.196,
+    "jitter": 0.004333333333333333,
+    "roundTripTime": 0.046
+  },
+  "video": {
+    "bytesSent": 288911,
+    "packetsSent": 636,
+    "packetsLost": 0,
+    "headerBytesSent": 12884,
+    "retransmittedBytesSent": 0,
+    "timestamp": 1591239797849.196,
+    "jitter": 0.0026333333333333334,
+    "roundTripTime": 0.046,
+    "framesPerSecond": 30,
+    "frameResolution": {
+      "height": 480,
+      "width": 640
+    }
+  }
+}

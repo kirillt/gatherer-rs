@@ -1,0 +1,26 @@
+[package]
+authors = ["Kirill Taran <kirill.t256@gmail.com>"]
+edition = "2018"
+name = "metrics-gatherer"
+version = "0.1.0"
+
+[[bin]]
+name = "gather"
+path = "src/gather.rs"
+
+[[bin]]
+name = "replay"
+path = "test/replay.rs"
+
+[dependencies]
+influx_db_client = "^0.4.0"
+tungstenite = "0.10.1"
+native-tls = "0.2.4"
+clap = "3.0.0-beta.1"
+byteorder = "1.3.4"
+serde_json = "1.0"
+url = "2.1.1"
+
+[dependencies.serde]
+features = ["derive"]
+version = "1.0"
